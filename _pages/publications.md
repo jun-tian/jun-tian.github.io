@@ -14,6 +14,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 <h2>2023</h2>
 
+<img align="left" src="/images/paper/2023-3-OMEGA.png"/>
+
+**Imbalanced Open Set Domain Adaptation via Moving-threshold Estimation and Gradual Alignment**
+Jinghan Ru, **Jun Tian**, Zhekai Du, Chengwei Xiao, Jingjing Li, Heng Tao Shen
+preprint arXiv:2303.04393
+[arxiv](https://arxiv.org/abs/2303.04393)
+
 
 <img align="left" src="/images/paper/2023-1-openset.png"/>
 
@@ -21,6 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Jiaming Liu, **Jun Tian**, Wei Han, Zhili Qin, Yulu Fan, Junming Shao
 Information Sciences 2023
 [paper](https://www.sciencedirect.com/science/article/pii/S0020025523000622)
+
 
 
 <!-- {% for post in site.publications reversed %}
