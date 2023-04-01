@@ -12,6 +12,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 {% include base_path %}
 
+<h2>2023</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubyear == 2023 %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

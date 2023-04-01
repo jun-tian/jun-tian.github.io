@@ -1,6 +1,7 @@
 ---
 title: "Learning Multiple Gaussian Prototypes for Open-Set Recognition"
 collection: publications
+pubyear: 2023
 ---
 
 <img align="left" src="/images/paper/2023-1-openset.png"/>
