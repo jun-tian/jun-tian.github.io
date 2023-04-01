@@ -2,9 +2,10 @@
 # title: "Learning Multiple Gaussian Prototypes for Open-Set Recognition"
 collection: publications
 pubyear: 2023
+teaser: "://images/paper/2023-3-OMEGA.png"
 ---
 
-<img align="left" src="/images/paper/2023-3-OMEGA.png"/>
+<!-- <img align="left" src="/images/paper/2023-3-OMEGA.png"/> -->
 
 **Imbalanced Open Set Domain Adaptation via Moving-threshold Estimation and Gradual Alignment**
 
