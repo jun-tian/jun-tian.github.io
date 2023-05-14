@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jun Tian"
   avatar           : "bio-photo.jpg"
-  bio              : "Visiting student at @UCB| Undergraduate Researcher"
-  location         : "Berkeley, CA"
+  bio              : "Undergraduate Researcher"
+  location         : "Chengdu, CN"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2e1sfqAAAAAJ&hl=en&authuser=1"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/_JunTian"
+  twitter          : "_JunTian"
   vine             :
   weibo            :
   xing             :
