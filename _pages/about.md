@@ -16,4 +16,4 @@ News
 ======
 09/2023: One paper on [Domain Adaptation](https://ieeexplore.ieee.org/document/10243130) is accepted by IEEE Transactions on Multimedia!
 
-01/2023: One paper on [open-set recognition](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000622) is accepted by Information Science!
+01/2023: One paper on [Open-Set Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000622) is accepted by Information Science!
